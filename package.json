@@ -1,5 +1,5 @@
 {
-  "name": "cnpj-alfa",
+  "name": "@klangorpa/cnpj-alfa",
   "version": "1.0.0",
   "description": "Validação de CNPJ Alfanumérico (Modelo 2026). Leve e sem dependências.",
   "main": "index.js",
