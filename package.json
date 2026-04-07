@@ -1,0 +1,19 @@
+{
+  "name": "cnpj-alfa",
+  "version": "1.0.0",
+  "description": "Validação de CNPJ Alfanumérico (Modelo 2026). Leve e sem dependências.",
+  "main": "index.js",
+  "keywords": [
+    "cnpj",
+    "alfanumerico",
+    "receita federal",
+    "brazil",
+    "validation",
+    "2026"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edson Márcio de Oliveira",
+  "license": "ISC"
+}
