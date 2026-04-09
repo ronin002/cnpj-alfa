@@ -1,7 +1,7 @@
 {
   "name": "@klangorpa/cnpj-alfa",
   "version": "1.0.0",
-  "description": "Validação de CNPJ Alfanumérico (Modelo 2026). Leve e sem dependências.",
+  "description": "Validação de CNPJ compatível com o novo formato alfanumérico da Receita Federal (alfanumérico) (Modelo 2026). Leve e sem dependências.",
   "main": "index.js",
   "keywords": [
     "cnpj",
